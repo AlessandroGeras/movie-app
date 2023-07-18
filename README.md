@@ -1,3 +1,11 @@
+# Test Assignment for CLub Feast
+
+<img src="public/Assignment1.png" alt="Texto Alternativo" style="width:60%;">
+<img src="public/Assignment2.png" alt="Texto Alternativo" style="width:60%;">
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
