@@ -170,7 +170,7 @@ const MoviePage: React.FC = () => {
             alt={movie.title}
             style={{ width: '450px', height: '450px', objectFit: 'contain', padding: '30px 0', margin: '0 -90px 0 -50px' }}
           />
-          <div className="text-white ml-10 w-[72%] h-screen flex items-center justify-center h-[449px]">
+          <div className="text-white ml-10 w-[72%] flex items-center justify-center h-[450px]">
             <div>
               <span className="text-2xl font-semibold">{movie.title}</span>
               <span className="text-2xl text-gray-300">
