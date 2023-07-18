@@ -3,12 +3,30 @@
 <img src="public/Assignment1.png" alt="Texto Alternativo" style="width:60%;">
 <img src="public/Assignment2.png" alt="Texto Alternativo" style="width:60%;">
 
+## About The Test
 
+This test was completed within a period of 3 days to perform the consumption of The Movie Database website's API, and below are some features about the test:
 
+#### Main Page
+The menu title is dynamic according to the displayed category.
+Implemented a menu for choosing movie categories by clicking the Sort button, and applied colors for the Focus and Selected states.
+The entire Navbar and the rest of the sidebar are decorative, only to replicate the proposed layout.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#### Movies Page
+Implemented a color system for the buttons below the Navbar.
+Applied verification for the cast images of the movies, as not all of them have photos, and in case they don't, a custom design was implemented to indicate that there is no image available.
+
+#### Final Considerations
+The project could be improved if there was more time to better componentize the code and identify fonts, font sizes, and margins.
+Responsiveness was not requested.
+Due to time constraints, I didn't create a button to return to the main menu, but considering everything that was done, it's a minor detail.
+
+## Live Project
+[Live Project](https://alessandrogeras.github.io/app/)
+
 
 ## Getting Started
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
