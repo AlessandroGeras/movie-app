@@ -9,7 +9,7 @@ const Navbar: React.FC = () => {
                 {/* Left List */}
                 <ul className="flex space-x-4 h-8">
                     <li className="flex items-center justify-center">
-                        <img src="/tmdb.svg" alt="Logo" className="h-4" />
+                        <img src="./tmdb.svg" alt="Logo" className="h-4" />
                     </li>
                     {['Movies', 'TV Shows', 'People', 'More'].map((text, index) => (
                         <NavItem key={index}>{text}</NavItem>
