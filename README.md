@@ -1,4 +1,4 @@
-# Test Assignment for CLub Feast
+# Test Assignment for Club Feast
 
 <img src="public/Assignment1.png" alt="Texto Alternativo" style="width:60%;">
 <img src="public/Assignment2.png" alt="Texto Alternativo" style="width:60%;">
