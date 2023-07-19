@@ -8,18 +8,18 @@
 This test was completed within a period of 3 days to perform the consumption of The Movie Database website's API, and below are some features about the test:
 
 #### Main Page
-Hidden API key through environment variable.
-The menu title is dynamic according to the displayed category.
-Implemented a menu for choosing movie categories by clicking the Sort button, and applied colors for the Focus and Selected states.
+Hidden API key through environment variable.<br>
+The menu title is dynamic according to the displayed category.<br>
+Implemented a menu for choosing movie categories by clicking the Sort button, and applied colors for the Focus and Selected states.<br>
 The entire Navbar and the rest of the sidebar are decorative, only to replicate the proposed layout.
 
 #### Movies Page
-Implemented a color system for the buttons below the Navbar.
+Implemented a color system for the buttons below the Navbar.<br>
 Applied verification for the cast images of the movies, as not all of them have photos, and in case they don't, a custom design was implemented to indicate that there is no image available.
 
 #### Final Considerations
 The project could be improved if there was more time to better componentize the code and identify fonts, font sizes, and margins.
-Responsiveness was not requested.
+Responsiveness was not requested.<br>
 Due to time constraints, I didn't create a button to return to the main menu, but considering everything that was done, it's a minor detail.
 
 ## Live Project
