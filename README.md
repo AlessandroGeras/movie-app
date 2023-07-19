@@ -8,6 +8,7 @@
 This test was completed within a period of 3 days to perform the consumption of The Movie Database website's API, and below are some features about the test:
 
 #### Main Page
+Hidden API key through environment variable.
 The menu title is dynamic according to the displayed category.
 Implemented a menu for choosing movie categories by clicking the Sort button, and applied colors for the Focus and Selected states.
 The entire Navbar and the rest of the sidebar are decorative, only to replicate the proposed layout.
